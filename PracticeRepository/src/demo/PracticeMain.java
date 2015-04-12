@@ -1,0 +1,14 @@
+package demo;
+public class PracticeMain {
+
+	public static void main(String[] args) {
+		// every one needs to add a line of code to this program to 
+		//print out your name and github username
+		
+		System.out.println("Richard Cross = rkjc");
+		// added this additional comment
+		System.out.println("Anvi Vaidya(304398515) = anvivaidya159");
+
+	}
+
+}
