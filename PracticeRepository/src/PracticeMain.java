@@ -6,6 +6,7 @@ public class PracticeMain {
 		//print out your name and github username
 		
 		System.out.println("Richard Cross = rkjc");
+		System.out.println("Mohammad Yazdani = myazdani2010");
 		
 
 	}
