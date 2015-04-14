@@ -8,6 +8,7 @@ public class PracticeMain {
 		
 		System.out.println("Richard Cross = rkjc");
 		System.out.println("Mahdiye Jamali = SuperMaddie");
+		System.out.println("Hello");
 
 	}
 
