@@ -6,8 +6,9 @@ public class PracticeMain {
 		//print out your name and github username
 		
 		System.out.println("Richard Cross = rkjc");
-		// added this additional comment
-
+		
+  		System.out.println("Sagar Patel = segie93");
+	
 	}
 
 }
