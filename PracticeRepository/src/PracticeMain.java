@@ -7,7 +7,7 @@ public class PracticeMain {
 		
 		System.out.println("Richard Cross = rkjc");
 		// added this additional comment
-System.out.println("Tejendra Patel & username = tejendra13");
+System.out.println("Tejendra Patel  = tejendra13");
 		
 	}
 
