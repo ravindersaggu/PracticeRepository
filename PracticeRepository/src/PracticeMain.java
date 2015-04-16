@@ -12,7 +12,7 @@ public class PracticeMain {
 		//this is the original master branch with the rkjc-b1 branch merged in
 
 		System.out.println("Mahdiye Jamali = SuperMaddie");
-		System.out.println("Hello");
+		System.out.println("Shashank Rathod = shashank7991");
 
 	
 	}
