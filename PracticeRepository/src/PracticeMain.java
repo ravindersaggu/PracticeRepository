@@ -7,7 +7,7 @@ public class PracticeMain {
 		
 		System.out.println("Richard Cross = rkjc");
 		
-  		System.out.println("Niraj Patel = nirajpatel2402"); 
+  		System.out.println("Niraj Patel = nirajpatel2402");   
 	
 	}
 
