@@ -7,7 +7,7 @@ public class PracticeMain {
 		
 		System.out.println("Richard Cross = rkjc");
 		// added this additional comment
-		System.out.println("Dhruvika Patel = dhruvikap14 (CIN:304382785)");
+		System.out.println("Dhruvika Patel(304382785)=Dhruvikap14");
 
 	}
 
